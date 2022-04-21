@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JusstPi
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Java and C++ both OOP
-- 📫 How to reach me ... dm me in discord Mimi Cry#3671
+- 📫 How to reach me ... dm me in Telegram jusstpi
 
 <!---
 JusstPi/JusstPi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
